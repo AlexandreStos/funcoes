@@ -1,2 +1,2 @@
 # funcoes
-repositorio para armazenamento de funçoes
+Repositorio para armazenamento de funçoes
